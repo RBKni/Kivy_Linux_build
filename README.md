@@ -1,4 +1,4 @@
-# Kivy_Linux_build
+# Kivy_Linux_build_helloworld
 Debug &amp; record
 update in 202401, build Kivy hello-world app successifully.
 setting: virtual box, ubuntu 20, anaconda.
